@@ -6,6 +6,6 @@ public class testFatorial extends calculeFatorial {
     @Test
     public void testFatorial() {
 
-        assertEquals(130,fat(5));
+        assertEquals(120,fat(5));
     }
 }
